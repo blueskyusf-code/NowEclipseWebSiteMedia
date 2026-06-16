@@ -1,0 +1,10 @@
+button {
+  background-color: blue;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+  border-radius: 5px;
+  border: none;             
+  padding: 10px 20px;     
+  cursor: pointer; 
+  font-weight: 700;    
+}
